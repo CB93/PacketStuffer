@@ -28,24 +28,25 @@ pip install scapy
 
 1. Clone the repository to your local machine:
 
-    ```bash
+    ```
     git clone https://github.com/your-username/tcp-covert-channel.git
     ```
 
 2. Navigate to the project directory:
 
-    ```bash
+    ```
     cd tcp-covert-channel
     ```
 
 4. Run the local host server
-    ```bash
+
+    ```
     python3 server.py
     ```
 
 3. Run the program, specifying the data you want to hide:
 
-    ```bash
+    ```
     python3 covert_channel.py "your secret message"
     ```
 
