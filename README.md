@@ -21,9 +21,9 @@ Before using the TCP Covert Channel program, ensure you have the following prere
 
 You can install Scapy using pip:
 
-```bash
+```
 pip install scapy
-
+```
 ## Usage
 
 1. Clone the repository to your local machine:
